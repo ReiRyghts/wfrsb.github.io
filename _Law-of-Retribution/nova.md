@@ -28,7 +28,7 @@ Easy to learn and difficult to master, Nova brings soft crowd control, or CC, an
 ## Build notes
 
 * 145% or higher strength is required to take full advantage of Molecular Prime's slow.
-* Duration is also very important because it affects the width of the area covered by Molecular Prime.
+* Duration is also very important because it affects the amount of time Molecular Prime will spend expanding, thereby effecting the range.
 * Higher range will make your Worm Holes longer, and your team faster but too high will often result in accidentally going out of map bounds. Around 100-120% is the sweet spot.
 * Be sure to equip Flow or Primed Flow to aid you in bomb carrying.
 * In the ideal build, Rush can be swapped for Natural Talent to decrease Molecular Prime's casting speed, or for Constitution to make each cast a wider area.

@@ -28,9 +28,10 @@ When it comes to hard crowd control, Rhino is arguably the best choice for raids
 ## Build notes
 * High range allows stomp to affect a large area. 
 * High efficiency allows you to constantly recast stomp to affect newly spawned enemies or enemies you did not catch before.
-* Having some amount of strength helps you to stay alive with the use of Iron Skin.
+* Since strength can cause you to inadvertantly kill enemies with Stomp, and Iron Skin is quick to cast when it runs out, minimal strength is recommended.
 * Natural talent is used to ensure you spend as little time as possible casting.
 * A movement mod is used because going fast is always better than going slow.
+* Casting speed and efficiency is prioritized over duration because stomping more will allow you to keep more enemies immobile at once.
 
 ## Tactics
 

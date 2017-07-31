@@ -28,8 +28,8 @@ Loki is a reliable frame to bring in any LoR squad. His large energy pool allows
 ## Build notes
 
 * Some prefer to use "Irradiating Disarm," an augment for Loki's 4th power, that causes enemies struck to become Rad procced and fight each other. This is personal preference as it is CC, but generally inferior to Rhino/Vauban and uses up a mod slot.
+* If you wish to use Irradiating Disarm, it is recommend to replace Natural Talent with it.
 * Range is the most important stat, with duration being the second most important. Regardless of whether you choose to use his "Irradiating Disarm" augment or not, the duration will allow you to stay invsible for extended durations, which can be extremely useful.
-* Natural Talent may be preferable for some users. Switch Rush with Natural Talent if you prefer.
 * Strength only affects the damage of Disarm which is negligible, so it's useless for Loki.
 
 ## Tactics

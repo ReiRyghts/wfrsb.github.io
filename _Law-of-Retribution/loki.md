@@ -5,7 +5,7 @@ layout: default
 
 ![Loki](http://i.imgur.com/DL8ebs2.jpg)
 
-Loki is a reliable frame to bring in any LoR squad. Not only his high energy pool allows him to bomb carry, but also his abilities allow for aggro loss, aggro pull, soft cc, mobility and enemy displacement for ev trinity. All of his abilities are relevant throughout the entire raid.
+Loki is a reliable frame to bring in any LoR squad. His large energy pool allows him to carry bombs, in addition to his ability to disarm enemies, become invisible, and create decoys to keep the squad and himself safe from harm.
 
 * * *
 
@@ -27,7 +27,8 @@ Loki is a reliable frame to bring in any LoR squad. Not only his high energy poo
 
 ## Build notes
 
-* Range is the most important stat. Efficiency is the next most important stat, as well as a bit of duration. Just Continuity is fine, you only need a bit of duration for Decoy, since you can re-cast invisibility.
+* Some prefer to use "Irradiating Disarm," an augment for Loki's 4th power, that causes enemies struck to become Rad procced and fight each other. This is personal preference as it is CC, but generally inferior to Rhino/Vauban and uses up a mod slot.
+* Range is the most important stat, with duration being the second most important. Regardless of whether you choose to use his "Irradiating Disarm" augment or not, the duration will allow you to stay invsible for extended durations, which can be extremely useful.
 * Natural Talent may be preferable for some users. Switch Rush with Natural Talent if you prefer.
 * Strength only affects the damage of Disarm which is negligible, so it's useless for Loki.
 
@@ -36,7 +37,7 @@ Loki is a reliable frame to bring in any LoR squad. Not only his high energy poo
 * Use Disarm near enemies. Once disarmed, they stay disarmed, so you don't need to re-cast it near those enemies.
 * Be careful about Disarming on pads, as Disarm moves you two steps forward and may move you off a pad. If you really need to, back up on a pad and look in the direction you want to move so that you don't go off the pad.
 * Keep using 2 for Invisibility
-* Use Decoy to distract enemies.
-* In the last stage, you should be constantly placing a Decoy right on Vay Hek so that he doesn't shoot rockets at your teammates.
+* Use Decoy to distract enemies. Be careful not to draw enemies to vulnerable squad mates, such as those on pads or those doing hacks.
+* In the last stage, you should be constantly placing a Decoy right under Vay Hek so that he doesn't shoot rockets at your teammates and is also unable to shoot the decoy itself.
 * Loki has a high energy pool, so he is often the bomb carrier. However, it can be nice to have two Lokis or a different frame (such as Volt) carrying the bomb so the Loki can Disarm.
 * If you only have one Loki which is carrying the bomb, get someone else to carry the bomb in the last stage so that Loki can place decoy next to Vay Hek.

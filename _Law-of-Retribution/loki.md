@@ -11,7 +11,7 @@ Loki is a reliable frame to bring in any LoR squad. His large energy pool allows
 
 ## Recommended build
 
-![Loki recommended build](http://imgur.com/a/lDIzJ)
+![Loki recommended build](http://i.imgur.com/eK5jS7m.jpg)
 
 ## Budget build*
 

@@ -5,7 +5,7 @@ layout: default
 
 ![Banshee](http://i.imgur.com/4RJZXB4.jpg)
 
-Banshee might not be the best choice for CC in Raids. However, her high energy pool and unique abilities make her a very useful frame in specific stages of the raid.
+Banshee's utility in raids is primarily to allow a team to kill Vay Hek instantly, with her Soundquake providing additional support throughout the mission. While she is outshined in terms of raw CC, she allows her team to save precious seconds if they are concerned with their time on a run.
 
 * * *
 
@@ -41,8 +41,9 @@ Banshee might not be the best choice for CC in Raids. However, her high energy p
 
 ## Tactics
 
-* Soundquake is great hard CC, however you can easily kill enemies with this (especially if you are using RQ).
-* Use this skill ONLY in emergencies on the hijack part of LoR.
+* Soundquake is great hard CC, however you can easily kill enemies with this.
+* The "Resonating Quake" augment for her 4th power is highly recommended.
+* Use this skill only when you will not have to move for a short time, and be careful that you are not ignoring mission   objetives while quaking.
 * Your main job comes at the very end of the raid as your team is destroying the last tower.
 * During this part, position yourself within sonar range of Vay Hek and spam sonar.
 * Sonar only applies after Vay Hek becomes vulnerable
@@ -53,4 +54,4 @@ Banshee might not be the best choice for CC in Raids. However, her high energy p
 
 ## Side-Notes 
 
-* Due to the fact that Banshee really only needs 5 mods to be raid ready so I recommend getting her if you don't have an extensive mod collection.
+* Banshee is somewhat difficult to play well, despite needing few mods, so I would recommend saving her for if/when you gain an interest in speedruns.

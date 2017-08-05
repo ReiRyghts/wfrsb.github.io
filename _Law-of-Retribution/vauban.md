@@ -5,7 +5,7 @@ layout: default
 
 ![Vauban](http://i.imgur.com/yLM0qPT.png)
 
-Just like Rhino, Vauban is one of the best choices for hard CC when it comes to raids. While being an easy frame to build and play, keep in mind that bastille, unlike rhino stomp, has a visual effect that can negatively affect your squad’s ability to visualize the objective, which is why it’s always recommended to carefully pick your energy color.
+Just like Rhino, Vauban is one of the best choices for hard CC when it comes to raids. While being an easy frame to build and play, keep in mind that Bastille, unlike Rhino's Stomp, has a visual effect that can negatively affect your squad’s ability to visualize the objective, which is why it’s always recommended to carefully pick your energy color.
 
 * * *
 

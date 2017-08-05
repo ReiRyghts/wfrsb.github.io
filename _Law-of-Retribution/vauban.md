@@ -28,11 +28,12 @@ Just like Rhino, Vauban is one of the best choices for hard CC when it comes to 
 ## Build notes
 
 * Range is the most important stat, followed by Duration and Efficiency. I wouldn't recommend power strength any higher than 130%. (it's just unnecessary)
-* Vauban's Bastille builds can be quite versatile, but I'd highly recommend having at least 235% range for your build. The rest of the stats can be modified to your liking, although I personally would go with the recommended build shown above.
+* Vauban's Bastille builds can be quite versatile, but it is highly recommend to have at least 235% range for your build. The rest of the stats can be modified to your liking, although I personally would go with the recommended build shown above.
 * Repelling Bastille is something to consider, but it can be glitchy in its current state, and if you're spamming bastilles, ideally you shouldn't need it.
 
 ## Tactics
 
+* The most important element of playing Vauban is to make sure your energy color is as dark as possible or your Bastilles will blind the team. - very important!
 * Throughout Law of Retribution, unless there are no enemies, you should be constantly spamming Bastilles. Ideally, no enemy should even be on the ground.
 * Please do not use bounce pads. Sometimes it's funny, but it tends to get old really fast, and just becomes annoying.
 * Vauban is a vital frame for CC, so he shouldn't be carrying the bomb unless necessary for whatever reason.

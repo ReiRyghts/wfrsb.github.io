@@ -12,7 +12,7 @@ Ember is one of the most potent damage and buffing frames for The Jordas Verdict
 
 ## Recommended build
 
-![Ember recommended build](http://i.imgur.com/oMTxnN0.jpg)
+![Ember recommended build](http://i.imgur.com/rUypQ4A.jpg)
 
 ## Budget build*
 
@@ -29,15 +29,15 @@ Ember is one of the most potent damage and buffing frames for The Jordas Verdict
 ## Build notes
 
 * Builds for Ember are very versatile and vary a lot, so I do encourage you to try to make your own build to see what suits your preferences if mine don't appeal to you so much.
-* Range and Strength are the two most important stats, followed by Efficiency and Duration to make World on Fire's energy drain per second lower.
-* Adjust this to your liking, but I'd say 2.5 energy per second or lower would be best for World on Fire. Try to have your efficiency at about 75% or above.
+* Since World on Fire will never exceed a certain amount of damage and will struggle to deal with Ancient Healers, it may be more effective to prioritize Flash Accelerant.
+* If you do not have an EV, you may wish to sub in Fleeting Expertise for Streamline.
 * If you put on maxed Fleeting Expertise and Streamline with no Blind Rage and your duration is above 40%, then World on Fire will be at the minimum drain of 0.75 energy per second. (efficiency works strangely with channeled abilities)
-* You can take off Firequake if you want to, it isn't necessary. However, it helps for keeping enemies down so they don't potentially swarm you and your teammates.
+* Firequake is advised against since it will significantly slow down the flow of enemies.
 * You could replace Firequake with Fireball Frenzy if you think you can keep the buff up on most of your teammates. (you have to hit them with Fireball directly)
 
 ## Tactics
 
-* Keep World on Fire on at all times.
+* Keep World on Fire on as much as you can.
 * You can't get energy from Trinity's Energy Vampire while you have World on Fire active, so turn it off if you need to regain energy.
 * Keep your teammates buffed with Flash Accelerant. (and/or Fireball Frenzy)
 * The casting speed bonus for all frames is capped at 50%, so for frames which have Natural Talent on, the casting speed bonus won't affect them. However, they will still receive the bonus fire damage to their attacks.

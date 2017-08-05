@@ -23,17 +23,18 @@ While crowd control isn’t too popular in experienced squads, it can be really 
 
 * * *
 
-## Role: Your role as frost is to keep an eye on everyone’s overshield, especially those without antiserum injectors.
+## Role: Your role as frost is to keep an eye on everyone’s health, especially those without antiserum injectors.
 
 ## Build notes
 
-* Range is the most important stat in the build, since the amount of overshields is affected by how many enemies you damage with your avalanche. 
-* Strength is also a key stat since the overshields also scale from it.
+* Range is the most important stat in the build, since the amount of armor is affected by how many enemies you damage with your avalanche. 
+* Strength is also a key stat since the armor also scales from it.
 * Duration isn’t too relevant here, your main goal is to keep everyone alive and not really freeze the enemies for long periods of time.
-* Efficiency and flow will help you when you need to cast repeatedly.
+* Efficiency and Flow will help you when you need to cast repeatedly.
 
 ## Tactics
 
 * Equip a sentinel with animal instinct or an enemy radar aura (for easier spotting of large enemy groups).
 * Make sure to make every cast count, basically, look for the largest group of enemies (that is close to your allies) before casting.
+* Frost globes wil slow the infested entering them and can be useful if your team is getting swarmed. You can and should destroy Frost Globes with your first power when their use has passed.
 

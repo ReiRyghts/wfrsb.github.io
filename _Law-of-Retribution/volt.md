@@ -5,7 +5,7 @@ layout: default
 
 ![Volt](http://i.imgur.com/jByK7z8.png)
 
-King of speed, Volt is a very versatile frame and widely used not only in normal runs but also speedruns. Not only can he make the raid go a lot faster, but his unique abilites allow him to buff his allies damage considerably and also CC the enemies (albeit smaller range of CC than Rhino and Vauban).
+King of speed, Volt is a very versatile frame and widely used not only in normal runs but also speedruns. Not only can he make the raid go a lot faster, but his unique abilites allow him to buff his allies damage considerably and also CC the enemies, albeit not as effectively as Rhino or Vauban.
 
 * * *
 
@@ -37,7 +37,8 @@ The Arcane Storm and, to a lesser extent, Arcane Pulse helmets are a nice additi
 ## Tactics
 
 * Make sure that everyone in your team always has Speed, and don't be afraid to recast.
-* Electric Shields can block any source of damage, including bomb explosions. Use them to protect yourself from enemy fire during the Hijack section, and always remember to drop one parallel to the ground near and facing the injector so that the carriers can safely shoot a fully charged battery.
+* Electric Shields can block any source of damage, including bomb explosions. When the bomb is getting ready to drop, cast one shield as flat on the ground as you can and then one shield at a 45 degree anglefrom the same position. This should keep everyone on the team safe from the bomb explosion.
+* When on pads, you can cast shields around yourself to build a little safe house. Don't forget to electrocute them with Volt's 1 to stun enemies that rush you.
 * Electric Shields can also boost the whole team's damage output, and can be stacked to kill Vay Hek more quickly.
 * Discharge is useful as emergency CC, but can also kill enemies easily with high Strength. Make sure not to deprive your EV Trinity of targets.
 

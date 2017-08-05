@@ -36,12 +36,12 @@ Make no mistake - if there is such a thing as Archwing God-mode, Amesha is it.
 
 ## Tactics
 
-* As soon as you are in Archwing mode, activate your fourth and first ability in this order to get as many drones as you can. This'll keep you alive for a while.
+* Keep in mind that Vengeful Rush will make you immune to damage while you do not have full energy, so you can use it with Warding Grace to make yourself immortal.
 * Alternatively you can active just Vengeful Rush and let enemies damage you. This way you can get a nice energy pool for later.
-* It's a great idea to make a "spam-1" macro, which will not only refresh your own Swarm whenever it runs out, but also apply it to any team mate that finds themselves under your crosshair.
+* It's a good idea to spam Watchful Swarm since it can be casted on yourself and your allies, and will help keep your team safe.
 * When you see other raiders pushing the spore around and you're not occupied with any tasks, rush ahead of them and active Benevolent Decoy. This way you'll redirect any incoming fire towards the spore.
-* If you cast the ability multiple times (up to three) in the same area, the bubble will stack, increasing it's time.
-* Do NOT use Warding Grace (#3) in phase 1 or phase 3, at all.
+* If you cast the ability multiple times (up to three) in the same area, the bubble will stack, increasing it's time AND size.
+* Be aware that Benevolent Decoy draws enemy fire into the center, so be cautious not to put Decoys in the direct path of the spore or it will simply get the spore shot many many times.
+* Do NOT use Warding Grace (#3) when interacting with spores or fighting the Golem.
 * Warding Grace not only slows down enemies, but also the infested spore that you need in order to progress. Slowing down the spore means slowing down progress!
-* In phase 3, after killing a nerve inside the Golem, activate Warding Grace as soon as Jordas detaches from his station. This way he'll be slowed down, giving other players the time to do damage.
-* Do NOT use it before he detaches! Jordas sometimes needs to complete an attack animation before he can become vulnerable. Slowing him down at that point will just keep him invulnerable for a long time.
+* Do NOT use Warding Grace in the fight against the Golem, as it can cause him to glitch to the poin tof softlocking the raid and forcing you to start over.

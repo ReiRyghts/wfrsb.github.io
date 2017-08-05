@@ -5,7 +5,7 @@ layout: default
 
 ![Trinity](http://i.imgur.com/4Yc7MFz.png)
 
-EV Trinity is a mandatory frame to bring in raids unless you’re willing to spend a lot of resources. Due to the bomb charging mechanics and high amounts of CC your allies have to spam, an EV really shines keeping everyone full of energy. While it’s an easy frame to build and play, it requires requires you to concentrate more than if you were playing another frame, since you need to constantly find targets to EV and make sure your team has enough energy to do their job.
+EV Trinity is a mandatory frame to bring in raids unless you’re willing to spend a lot of resources. Due to the bomb charging mechanics and high amounts of CC your allies have to spam, an EV really shines when she is keeping everyone full of energy. While it’s an easy frame to build and play, it requires requires more legwork than if you were playing another frame, since you need to constantly find targets to EV and make sure your team has enough energy to do their job.
 
 * * *
 

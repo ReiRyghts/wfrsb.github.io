@@ -11,7 +11,7 @@ Bless Trinity is a very good pick in LOR due to the high amounts of damage your 
 
 ## Recommended build
 
-![Trinity recommended build](http://i.imgur.com/I1R5uAJ.png)
+![Trinity recommended build](http://i.imgur.com/jK6ROci.jpg)
 
 ## Budget build*
 
@@ -31,8 +31,8 @@ Bless Trinity is a very good pick in LOR due to the high amounts of damage your 
 * Blessing effectiveness is capped at 150% strength (maximum of 75% damage resistance)
 * Blessing does not scale with range at all, however having decent range lets you use Link and EV as well
 * The Bullet Jump mods can be freely exchanged for anything else based on preference
-* The "recommended build" uses an Arcane Aura Trinity Helmet to add 30% duration to it. If no helmet is available, consider replacing a mod with Constitution to make up for it.
-* Also in the "recommended build" is a rank 4 Overextended, which puts your strength at 149%. There will be no noticeable difference, however your team may laugh at you for it. Consider using an R3 Overextended instead.
+* An Arcane Aura helmet will give your Trinity additional duration and is very useful if you have one. It is not used in the recommended build.
+* Feel free to swap out Constitution for another quality of life mod, like Natural Talent, since its effect is fairly minor anyway.
 
 ## Tactics
 
@@ -43,7 +43,9 @@ Bless Trinity is a very good pick in LOR due to the high amounts of damage your 
 * Refresh Bless regularly. If you notice you can buff additional players, or even the same number of players if you recast it, do it - you never know when you'll have the next chance to buff so many.
 * Never pick up bombs yourself
 * Since your job is pretty simple, especially while standing on a pad, find other ways to make yourself useful - waypoint hacking panels and pads in stage 2, shoot priority targets and enemies with knock-back capability and so on. Be creative.
-* One of the best things you can do is use the 'meditate' animation on pressure plates. It makes you immune to almost all types of knock-back. Sit, kneel and knee-bend also work.
+* Try and avoid falling behind, as this will make you essentially useless to your team.
+* When on pads, use Link to give yourself knockdown and stagger resistance.
+* The Disciplined Approach passive from the Vazarin focus tree increases your affinity range, which will also increase your bless range. This can be very useful to keep more of your team protected.
 
 ## Hybrid Build
 

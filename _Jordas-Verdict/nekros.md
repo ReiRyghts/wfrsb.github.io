@@ -5,7 +5,7 @@ layout: default
 
 ![Nekros](http://i.imgur.com/qCuBbNR.png)
 
-In order to get a stable supply of Antiserum Injector Charges, a Nekros desecrate build is needed, or the entire team will struggle progressing through. Generally you want to maximize range and include a Despoil for convenience.
+In order to get a stable supply of Antiserum Injector Charges, a Nekros desecrate build is needed, or the entire team will struggle progressing through. Generally you want to maximize range and include Despoil for convenience.
 
 * * *
 
